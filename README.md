@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Coursera Classes on Mathematics for data science specialization
-- 🌱 I’m currently learning ... Advance linear algebra
-- 👯 I’m looking to collaborate on ... bioinformatics model building using machine learning algorithm
+- 🔭 I’m currently working on ... Kubernetes
+- 🌱 I’m currently learning ... GitOps
+- 👯 I’m looking to collaborate on ... automation with Boto3 and Jenkinspipelines
 - 🤔 I’m looking for help with ... de bruijn graph
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[linkin](https://www.linkedin.com/in/edmundtetteh/)
