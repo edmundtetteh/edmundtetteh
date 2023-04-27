@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Kubernetes
+- 🔭 I’m currently working on ... JavaScript(Nodejs)
 - 🌱 I’m currently learning ... GitOps
 - 👯 I’m looking to collaborate on ... automation with Boto3 and Jenkinspipelines
 - 🤔 I’m looking for help with ... de bruijn graph
